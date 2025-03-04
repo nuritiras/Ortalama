@@ -9,3 +9,4 @@ if sonuc<50:
 else:
     print(sonuc,"notuyla geçti")
 
+print("Projemiz geliştirilmeye devam etmektedir.")
